@@ -1,0 +1,188 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10942505700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Verify user is able to click on four keys",
+        "description": "",
+        "id": "key-presses-functionality;verify-user-is-able-to-click-on-four-keys",
+        "after": [
+          {
+            "result": {
+              "duration": 937132600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 268281700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the internet herokuapp home page",
+            "match": {
+              "location": "LoginTest.iAmOnTheInternetHerokuappHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10689888500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on key presses link",
+            "match": {
+              "location": "KeyPressTest.iClickOnKeyPressesLink()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 180947200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I press A keys in field \"A\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "A",
+                  "offset": 25
+                }
+              ],
+              "location": "KeyPressTest.iPressAKeysInField(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 225739000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "System should shows displayed A successfully",
+            "match": {
+              "location": "KeyPressTest.systemShouldShowsDisplayedASuccessfully()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 123359700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I press B keys in field \"B\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "B",
+                  "offset": 25
+                }
+              ],
+              "location": "KeyPressTest.iPressBKeysInField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 154700000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "System should shows displayed B successfully",
+            "match": {
+              "location": "KeyPressTest.systemShouldShowsDisplayedBSuccessfully()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 155657400,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I press C keys in field \"C\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "C",
+                  "offset": 25
+                }
+              ],
+              "location": "KeyPressTest.iPressCKeysInField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 176102800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "System should shows displayed C successfully",
+            "match": {
+              "location": "KeyPressTest.systemShouldShowsDisplayedCSuccessfully()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 123765200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "And I press D keys in field \"D\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "D",
+                  "offset": 29
+                }
+              ],
+              "location": "KeyPressTest.andIPressDKeysInField(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 74359300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "System should shows displayed D successfully",
+            "match": {
+              "location": "KeyPressTest.systemShouldShowsDisplayedDSuccessfully()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Key presses functionality",
+    "description": "As a user\r\nI want to click on key presses\r\nso i can click on four keys",
+    "id": "key-presses-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/theinternetherokuapp/resources/featurefiles/keypresses.feature"
+  }
+]

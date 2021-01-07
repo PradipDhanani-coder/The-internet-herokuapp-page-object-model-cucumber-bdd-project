@@ -1,0 +1,1205 @@
+2020-12-18 13:12:247 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 13:12:898 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 13:12:871 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 13:12:562 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 13:12:887 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 13:12:475 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 13:12:522 INFO  HomePage :33 - Getting Login text message[[ChromeDriver: chrome on WINDOWS (f10f046a338ac36c152c8adf06802b28)] -> xpath: //h2[contains(text(),'Login Page')]]
+2020-12-18 14:12:395 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:688 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 14:12:744 INFO  HomePage :76 - Getting Login text message[[ChromeDriver: chrome on WINDOWS (efde3899d2e133dd35fdfc9015dc0370)] -> xpath: //h2[contains(text(),'Login Page')]]
+2020-12-18 14:12:648 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:408 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:549 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:927 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:831 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:904 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:919 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 14:12:998 INFO  HomePage :76 - Getting Login text message[[ChromeDriver: chrome on WINDOWS (6c8a0d064203ec5d71f2ea8b86e90b0a)] -> xpath: //h2[contains(text(),'Login Page')]]
+2020-12-18 14:12:932 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:860 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 14:12:108 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (04ac1a6de50892082e6b4bab7ee480d0)] -> xpath: //input[@id='username']]
+2020-12-18 14:12:309 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (04ac1a6de50892082e6b4bab7ee480d0)] -> xpath: //input[@id='password']]
+2020-12-18 14:12:159 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (04ac1a6de50892082e6b4bab7ee480d0)] -> xpath: //i[contains(text(),'Login')]]
+2020-12-18 14:12:209 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (04ac1a6de50892082e6b4bab7ee480d0)] -> xpath: //div[@id='flash']]
+2020-12-18 14:12:51 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:716 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 14:12:20 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (33a9e5126114330d9bcd07262c6bdb8a)] -> xpath: //input[@id='username']]
+2020-12-18 14:12:191 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (33a9e5126114330d9bcd07262c6bdb8a)] -> xpath: //input[@id='password']]
+2020-12-18 14:12:823 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (33a9e5126114330d9bcd07262c6bdb8a)] -> xpath: //i[contains(text(),'Login')]]
+2020-12-18 14:12:878 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (33a9e5126114330d9bcd07262c6bdb8a)] -> xpath: //div[@id='flash']]
+2020-12-18 14:12:762 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:799 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 14:12:48 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (eeaa4d229c977a4d8996fe12feae51f1)] -> xpath: //input[@id='username']]
+2020-12-18 14:12:232 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (eeaa4d229c977a4d8996fe12feae51f1)] -> xpath: //input[@id='password']]
+2020-12-18 14:12:816 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (eeaa4d229c977a4d8996fe12feae51f1)] -> xpath: //i[contains(text(),'Login')]]
+2020-12-18 14:12:882 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (eeaa4d229c977a4d8996fe12feae51f1)] -> xpath: //div[@id='flash']]
+2020-12-18 14:12:567 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:523 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 14:12:585 INFO  HomePage :76 - Getting Login text message[[ChromeDriver: chrome on WINDOWS (ec0451bbca9e83777fa578e4c2aca28b)] -> xpath: //h2[contains(text(),'Login Page')]]
+2020-12-18 14:12:997 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:386 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 14:12:540 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (5115e21c1bc6ca890b7f746db5fc630b)] -> xpath: //input[@id='username']]
+2020-12-18 14:12:716 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (5115e21c1bc6ca890b7f746db5fc630b)] -> xpath: //input[@id='password']]
+2020-12-18 14:12:877 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (5115e21c1bc6ca890b7f746db5fc630b)] -> xpath: //i[contains(text(),'Login')]]
+2020-12-18 14:12:927 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (5115e21c1bc6ca890b7f746db5fc630b)] -> xpath: //div[@id='flash']]
+2020-12-18 14:12:787 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:649 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 14:12:926 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (06dc1ccf753aba593bea552f12b94a7e)] -> xpath: //input[@id='username']]
+2020-12-18 14:12:90 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (06dc1ccf753aba593bea552f12b94a7e)] -> xpath: //input[@id='password']]
+2020-12-18 14:12:644 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (06dc1ccf753aba593bea552f12b94a7e)] -> xpath: //i[contains(text(),'Login')]]
+2020-12-18 14:12:713 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (06dc1ccf753aba593bea552f12b94a7e)] -> xpath: //div[@id='flash']]
+2020-12-18 14:12:561 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:414 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:803 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 14:12:881 INFO  HomePage :76 - Getting Login text message[[ChromeDriver: chrome on WINDOWS (7792b876d2294eefc71a1798dc33cfa1)] -> xpath: //h2[contains(text(),'Login Page')]]
+2020-12-18 14:12:783 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:294 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 14:12:560 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (0a11409981ab55b15e71a5b0a24547b1)] -> xpath: //input[@id='username']]
+2020-12-18 14:12:737 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (0a11409981ab55b15e71a5b0a24547b1)] -> xpath: //input[@id='password']]
+2020-12-18 14:12:314 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (0a11409981ab55b15e71a5b0a24547b1)] -> xpath: //i[contains(text(),'Login')]]
+2020-12-18 14:12:379 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (0a11409981ab55b15e71a5b0a24547b1)] -> xpath: //div[@id='flash']]
+2020-12-18 14:12:300 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 14:12:253 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 14:12:447 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (2f6476612c9c374b014dcfc4287cdda5)] -> xpath: //input[@id='username']]
+2020-12-18 14:12:624 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (2f6476612c9c374b014dcfc4287cdda5)] -> xpath: //input[@id='password']]
+2020-12-18 14:12:92 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (2f6476612c9c374b014dcfc4287cdda5)] -> xpath: //i[contains(text(),'Login')]]
+2020-12-18 14:12:150 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (2f6476612c9c374b014dcfc4287cdda5)] -> xpath: //div[@id='flash']]
+2020-12-18 14:12:600 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 15:12:619 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 15:12:411 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 15:12:592 INFO  HomePage :49 - Entering UsernamejackstasOn username Field[[ChromeDriver: chrome on WINDOWS (1ac7ad7ed6b47cba7f4c5189764c1570)] -> xpath: //input[@id='username']]
+2020-12-18 15:12:808 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (1ac7ad7ed6b47cba7f4c5189764c1570)] -> xpath: //input[@id='password']]
+2020-12-18 15:12:346 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (1ac7ad7ed6b47cba7f4c5189764c1570)] -> xpath: //i[contains(text(),'Login')]]
+2020-12-18 15:12:188 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 15:12:860 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 15:12:22 INFO  HomePage :49 - Entering UsernamemonikablackOn username Field[[ChromeDriver: chrome on WINDOWS (ca05dfcce031153c45bb01f9d65255f2)] -> xpath: //input[@id='username']]
+2020-12-18 15:12:254 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (ca05dfcce031153c45bb01f9d65255f2)] -> xpath: //input[@id='password']]
+2020-12-18 15:12:759 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (ca05dfcce031153c45bb01f9d65255f2)] -> xpath: //i[contains(text(),'Login')]]
+2020-12-18 15:12:600 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-18 15:12:967 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-18 15:12:236 INFO  HomePage :49 - Entering UsernameromankurhajecOn username Field[[ChromeDriver: chrome on WINDOWS (4b4e5b5a3f33d5b0c48697cf3272fbc3)] -> xpath: //input[@id='username']]
+2020-12-18 15:12:409 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (4b4e5b5a3f33d5b0c48697cf3272fbc3)] -> xpath: //input[@id='password']]
+2020-12-18 15:12:993 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (4b4e5b5a3f33d5b0c48697cf3272fbc3)] -> xpath: //i[contains(text(),'Login')]]
+2020-12-21 17:12:312 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-21 17:12:55 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-21 17:12:339 INFO  HomePage :49 - Entering UsernamejackstasOn username Field[[ChromeDriver: chrome on WINDOWS (e066654d4ed9badfaa3a6046622c23ce)] -> xpath: //input[@id='username']]
+2020-12-21 17:12:554 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (e066654d4ed9badfaa3a6046622c23ce)] -> xpath: //input[@id='password']]
+2020-12-21 17:12:152 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (e066654d4ed9badfaa3a6046622c23ce)] -> xpath: //i[contains(text(),'Login')]]
+2020-12-21 17:12:29 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-21 17:12:236 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-21 17:12:485 INFO  HomePage :49 - Entering UsernamemonikablackOn username Field[[ChromeDriver: chrome on WINDOWS (265c5c8f935ae4b9b90f664a92bab901)] -> xpath: //input[@id='username']]
+2020-12-21 17:12:746 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (265c5c8f935ae4b9b90f664a92bab901)] -> xpath: //input[@id='password']]
+2020-12-21 17:12:366 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (265c5c8f935ae4b9b90f664a92bab901)] -> xpath: //i[contains(text(),'Login')]]
+2020-12-21 17:12:259 INFO  BrowserSelector :42 - Launching Chrome Browser
+2020-12-21 17:12:613 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2020-12-21 17:12:971 INFO  HomePage :49 - Entering UsernameromankurhajecOn username Field[[ChromeDriver: chrome on WINDOWS (1f29f891423b08e9b1f694cb1de04848)] -> xpath: //input[@id='username']]
+2020-12-21 17:12:359 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (1f29f891423b08e9b1f694cb1de04848)] -> xpath: //input[@id='password']]
+2020-12-21 17:12:128 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (1f29f891423b08e9b1f694cb1de04848)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-05 23:01:50 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-05 23:01:667 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-05 23:01:870 INFO  HomePage :49 - Entering UsernamejackstasOn username Field[[ChromeDriver: chrome on WINDOWS (3ac2d90739d93f11293f556a29dba79b)] -> xpath: //input[@id='username']]
+2021-01-05 23:01:98 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (3ac2d90739d93f11293f556a29dba79b)] -> xpath: //input[@id='password']]
+2021-01-05 23:01:924 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (3ac2d90739d93f11293f556a29dba79b)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-05 23:01:952 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-05 23:01:460 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-05 23:01:680 INFO  HomePage :49 - Entering UsernamemonikablackOn username Field[[ChromeDriver: chrome on WINDOWS (ac81eca39d20941af83659e84af433a5)] -> xpath: //input[@id='username']]
+2021-01-05 23:01:911 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (ac81eca39d20941af83659e84af433a5)] -> xpath: //input[@id='password']]
+2021-01-05 23:01:16 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (ac81eca39d20941af83659e84af433a5)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-05 23:01:51 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-05 23:01:231 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-05 23:01:663 INFO  HomePage :49 - Entering UsernameromankurhajecOn username Field[[ChromeDriver: chrome on WINDOWS (7c51c2b86d084db05fded0b2e214b580)] -> xpath: //input[@id='username']]
+2021-01-05 23:01:942 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (7c51c2b86d084db05fded0b2e214b580)] -> xpath: //input[@id='password']]
+2021-01-05 23:01:509 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (7c51c2b86d084db05fded0b2e214b580)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 12:01:993 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 12:01:148 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 12:01:384 INFO  HomePage :49 - Entering UsernamejackstasOn username Field[[ChromeDriver: chrome on WINDOWS (e02dd226ba7e950f64c712860b9bb3de)] -> xpath: //input[@id='username']]
+2021-01-06 12:01:621 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (e02dd226ba7e950f64c712860b9bb3de)] -> xpath: //input[@id='password']]
+2021-01-06 12:01:204 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (e02dd226ba7e950f64c712860b9bb3de)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 12:01:221 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 12:01:175 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 12:01:380 INFO  HomePage :49 - Entering UsernamemonikablackOn username Field[[ChromeDriver: chrome on WINDOWS (5570776e497230e0771eb8f11e541080)] -> xpath: //input[@id='username']]
+2021-01-06 12:01:618 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (5570776e497230e0771eb8f11e541080)] -> xpath: //input[@id='password']]
+2021-01-06 12:01:263 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (5570776e497230e0771eb8f11e541080)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 12:01:278 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 12:01:712 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 12:01:18 INFO  HomePage :49 - Entering UsernameromankurhajecOn username Field[[ChromeDriver: chrome on WINDOWS (026249642dacc23a81bf86d85e1f4428)] -> xpath: //input[@id='username']]
+2021-01-06 12:01:306 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (026249642dacc23a81bf86d85e1f4428)] -> xpath: //input[@id='password']]
+2021-01-06 12:01:35 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (026249642dacc23a81bf86d85e1f4428)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 12:01:162 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 12:01:50 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 12:01:354 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (59c68b58d36cb0e6d2d1e578a0eef581)] -> xpath: //input[@id='username']]
+2021-01-06 12:01:648 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (59c68b58d36cb0e6d2d1e578a0eef581)] -> xpath: //input[@id='password']]
+2021-01-06 12:01:410 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (59c68b58d36cb0e6d2d1e578a0eef581)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 12:01:491 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (59c68b58d36cb0e6d2d1e578a0eef581)] -> xpath: //div[@id='flash']]
+2021-01-06 12:01:587 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 12:01:658 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 12:01:826 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (d9b96b4695571a8529579a7d81717115)] -> xpath: //input[@id='username']]
+2021-01-06 12:01:89 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (d9b96b4695571a8529579a7d81717115)] -> xpath: //input[@id='password']]
+2021-01-06 12:01:729 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (d9b96b4695571a8529579a7d81717115)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 12:01:802 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (d9b96b4695571a8529579a7d81717115)] -> xpath: //div[@id='flash']]
+2021-01-06 12:01:870 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 12:01:638 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 12:01:896 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (41125b91857a989b19c0e88b5a7187f4)] -> xpath: //input[@id='username']]
+2021-01-06 12:01:147 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (41125b91857a989b19c0e88b5a7187f4)] -> xpath: //input[@id='password']]
+2021-01-06 12:01:845 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (41125b91857a989b19c0e88b5a7187f4)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 12:01:898 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (41125b91857a989b19c0e88b5a7187f4)] -> xpath: //div[@id='flash']]
+2021-01-06 12:01:705 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 12:01:445 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 12:01:703 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (d2c4734eb3136c9f34e78af0ccea9e6a)] -> xpath: //input[@id='username']]
+2021-01-06 12:01:926 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (d2c4734eb3136c9f34e78af0ccea9e6a)] -> xpath: //input[@id='password']]
+2021-01-06 12:01:673 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (d2c4734eb3136c9f34e78af0ccea9e6a)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 12:01:736 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (d2c4734eb3136c9f34e78af0ccea9e6a)] -> xpath: //div[@id='flash']]
+2021-01-06 12:01:814 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 12:01:527 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 12:01:787 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (aafb781837654ffe3da9c29a0ae92478)] -> xpath: //input[@id='username']]
+2021-01-06 12:01:49 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (aafb781837654ffe3da9c29a0ae92478)] -> xpath: //input[@id='password']]
+2021-01-06 12:01:955 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (aafb781837654ffe3da9c29a0ae92478)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 12:01:25 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (aafb781837654ffe3da9c29a0ae92478)] -> xpath: //div[@id='flash']]
+2021-01-06 12:01:120 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 12:01:94 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 12:01:286 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (8617ecbeb704b36a63abc0d3f1245e3c)] -> xpath: //input[@id='username']]
+2021-01-06 12:01:486 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (8617ecbeb704b36a63abc0d3f1245e3c)] -> xpath: //input[@id='password']]
+2021-01-06 12:01:308 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (8617ecbeb704b36a63abc0d3f1245e3c)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 12:01:378 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (8617ecbeb704b36a63abc0d3f1245e3c)] -> xpath: //div[@id='flash']]
+2021-01-06 12:01:771 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 12:01:678 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 12:01:897 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (272d70311a6a53a8120aa2a0ea30d071)] -> xpath: //input[@id='username']]
+2021-01-06 12:01:90 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (272d70311a6a53a8120aa2a0ea30d071)] -> xpath: //input[@id='password']]
+2021-01-06 12:01:657 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (272d70311a6a53a8120aa2a0ea30d071)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 12:01:723 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (272d70311a6a53a8120aa2a0ea30d071)] -> xpath: //div[@id='flash']]
+2021-01-06 12:01:788 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:74 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:332 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (76e946fea2e254be1b85d7273a2a386e)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:631 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (76e946fea2e254be1b85d7273a2a386e)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:479 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (76e946fea2e254be1b85d7273a2a386e)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:550 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (76e946fea2e254be1b85d7273a2a386e)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:624 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:605 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:824 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (8439c15211678936c2669cf6f2032d68)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:59 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (8439c15211678936c2669cf6f2032d68)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:726 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (8439c15211678936c2669cf6f2032d68)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:783 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (8439c15211678936c2669cf6f2032d68)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:679 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:920 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:149 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (767f67ed7c057036917568e1a642d756)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:355 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (767f67ed7c057036917568e1a642d756)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:32 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (767f67ed7c057036917568e1a642d756)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:94 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (767f67ed7c057036917568e1a642d756)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:191 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:639 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:857 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (b13e2de897553400fa7ca4df6b804492)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:72 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (b13e2de897553400fa7ca4df6b804492)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:813 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (b13e2de897553400fa7ca4df6b804492)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:865 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (b13e2de897553400fa7ca4df6b804492)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:923 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:99 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:298 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (50d857f52c7ed07dcf8abbeb9e239262)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:502 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (50d857f52c7ed07dcf8abbeb9e239262)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:65 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (50d857f52c7ed07dcf8abbeb9e239262)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:126 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (50d857f52c7ed07dcf8abbeb9e239262)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:178 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:296 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:532 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (12e84fe2a2b10bbe49e3cde4504ecfd7)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:757 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (12e84fe2a2b10bbe49e3cde4504ecfd7)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:463 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (12e84fe2a2b10bbe49e3cde4504ecfd7)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:546 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (12e84fe2a2b10bbe49e3cde4504ecfd7)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:634 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:545 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:795 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (dc4d1c66f6202b0f232c4c991067640b)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:78 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (dc4d1c66f6202b0f232c4c991067640b)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:762 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (dc4d1c66f6202b0f232c4c991067640b)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:825 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (dc4d1c66f6202b0f232c4c991067640b)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:894 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:939 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:139 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (56ed248ce1c2426a0bdfea495df84a22)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:354 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (56ed248ce1c2426a0bdfea495df84a22)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:983 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (56ed248ce1c2426a0bdfea495df84a22)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:60 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (56ed248ce1c2426a0bdfea495df84a22)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:33 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:737 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:980 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (7e629456eba2dc5900f400dfab7a9c6b)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:206 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (7e629456eba2dc5900f400dfab7a9c6b)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:864 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (7e629456eba2dc5900f400dfab7a9c6b)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:927 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (7e629456eba2dc5900f400dfab7a9c6b)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:31 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:287 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:609 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (3438f9b477a85d50b746d929bbad0694)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:961 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (3438f9b477a85d50b746d929bbad0694)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:146 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (3438f9b477a85d50b746d929bbad0694)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:223 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (3438f9b477a85d50b746d929bbad0694)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:294 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:44 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:253 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (981f09c7b76f77f39babc8cef5385195)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:460 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (981f09c7b76f77f39babc8cef5385195)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:347 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (981f09c7b76f77f39babc8cef5385195)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:411 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (981f09c7b76f77f39babc8cef5385195)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:777 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:206 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:485 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (1befc0b2fd36dd3a5d905276f0efa02a)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:724 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (1befc0b2fd36dd3a5d905276f0efa02a)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:687 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (1befc0b2fd36dd3a5d905276f0efa02a)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:767 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (1befc0b2fd36dd3a5d905276f0efa02a)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:851 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:870 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:309 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (645f30bf74cd06debbda4969a12af2af)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:671 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (645f30bf74cd06debbda4969a12af2af)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:402 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (645f30bf74cd06debbda4969a12af2af)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:478 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (645f30bf74cd06debbda4969a12af2af)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:533 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:304 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:550 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (40683abcda2436553511cbc8586c1684)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:911 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (40683abcda2436553511cbc8586c1684)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:835 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (40683abcda2436553511cbc8586c1684)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:897 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (40683abcda2436553511cbc8586c1684)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:480 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:823 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:175 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (3e1441b70b5c7e401ba5fbcd6849380a)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:475 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (3e1441b70b5c7e401ba5fbcd6849380a)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:340 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (3e1441b70b5c7e401ba5fbcd6849380a)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:429 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (3e1441b70b5c7e401ba5fbcd6849380a)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:532 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:552 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:755 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (accc44d52642b7019bf1b93f0f802c41)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:960 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (accc44d52642b7019bf1b93f0f802c41)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:709 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (accc44d52642b7019bf1b93f0f802c41)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:772 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (accc44d52642b7019bf1b93f0f802c41)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:824 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:177 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:451 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (758ef0409a59c30444e4fd066fc04abe)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:716 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (758ef0409a59c30444e4fd066fc04abe)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:464 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (758ef0409a59c30444e4fd066fc04abe)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:539 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (758ef0409a59c30444e4fd066fc04abe)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:91 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:187 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:483 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (ce30257499a1ed1b8c1f9d6962becc3c)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:733 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (ce30257499a1ed1b8c1f9d6962becc3c)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:483 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (ce30257499a1ed1b8c1f9d6962becc3c)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:550 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (ce30257499a1ed1b8c1f9d6962becc3c)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:640 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:845 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:22 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (cb1e34e1667b8299469594a135c0fd52)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:205 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (cb1e34e1667b8299469594a135c0fd52)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:758 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (cb1e34e1667b8299469594a135c0fd52)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:823 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (cb1e34e1667b8299469594a135c0fd52)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:871 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:911 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:196 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (4353594d8d9b752a4981b42d8c4a1efe)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:494 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (4353594d8d9b752a4981b42d8c4a1efe)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:344 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (4353594d8d9b752a4981b42d8c4a1efe)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:410 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (4353594d8d9b752a4981b42d8c4a1efe)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:245 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:101 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:347 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (b53dfd4c4ab15f32f5a3b39f504deb7d)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:583 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (b53dfd4c4ab15f32f5a3b39f504deb7d)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:335 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (b53dfd4c4ab15f32f5a3b39f504deb7d)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:407 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (b53dfd4c4ab15f32f5a3b39f504deb7d)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:497 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:585 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:865 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (6b3fc8182cd28929e4489012e43c5651)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:159 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (6b3fc8182cd28929e4489012e43c5651)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:11 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (6b3fc8182cd28929e4489012e43c5651)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:101 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (6b3fc8182cd28929e4489012e43c5651)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:181 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:959 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:175 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (30ed0343a61c6a21d5ec0dd5c68229f3)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:380 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (30ed0343a61c6a21d5ec0dd5c68229f3)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:329 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (30ed0343a61c6a21d5ec0dd5c68229f3)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:402 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (30ed0343a61c6a21d5ec0dd5c68229f3)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:396 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:485 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:710 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (09bf6d5ea8a1c9ec50c16a7a303ef71e)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:962 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (09bf6d5ea8a1c9ec50c16a7a303ef71e)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:601 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (09bf6d5ea8a1c9ec50c16a7a303ef71e)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:657 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (09bf6d5ea8a1c9ec50c16a7a303ef71e)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:722 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:900 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:147 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (65b1e7e1a222c932d454030f5f180386)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:615 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (65b1e7e1a222c932d454030f5f180386)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:500 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (65b1e7e1a222c932d454030f5f180386)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:598 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (65b1e7e1a222c932d454030f5f180386)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:680 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:737 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:956 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (bb5a8853cee04d0d2b4f9577d14a66cf)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:214 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (bb5a8853cee04d0d2b4f9577d14a66cf)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:842 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (bb5a8853cee04d0d2b4f9577d14a66cf)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:892 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (bb5a8853cee04d0d2b4f9577d14a66cf)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:463 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:228 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:586 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (119d5a7038d8702a587c1f93b734aa68)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:934 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (119d5a7038d8702a587c1f93b734aa68)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:767 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (119d5a7038d8702a587c1f93b734aa68)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:848 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (119d5a7038d8702a587c1f93b734aa68)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:980 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:544 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:737 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (c49c6d27f081a6aa8bb4654e50c8f142)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:936 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (c49c6d27f081a6aa8bb4654e50c8f142)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:645 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (c49c6d27f081a6aa8bb4654e50c8f142)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:701 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (c49c6d27f081a6aa8bb4654e50c8f142)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:767 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:268 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:440 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (0ddec19bf9dc02700183758db4b05e40)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:659 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (0ddec19bf9dc02700183758db4b05e40)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:226 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (0ddec19bf9dc02700183758db4b05e40)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:313 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (0ddec19bf9dc02700183758db4b05e40)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:94 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:934 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:173 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (bd657a955b34e8fa06d79a8c7aadf9fc)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:388 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (bd657a955b34e8fa06d79a8c7aadf9fc)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:14 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (bd657a955b34e8fa06d79a8c7aadf9fc)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:89 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (bd657a955b34e8fa06d79a8c7aadf9fc)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:163 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:962 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:235 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (13abbbb75781c522c3e67c2dd089fc89)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:487 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (13abbbb75781c522c3e67c2dd089fc89)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:215 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (13abbbb75781c522c3e67c2dd089fc89)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:300 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (13abbbb75781c522c3e67c2dd089fc89)] -> xpath: //div[@id='flash']]
+2021-01-06 13:01:363 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 13:01:337 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 13:01:570 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (2424fa5c043ff910d9e1cf39278c3585)] -> xpath: //input[@id='username']]
+2021-01-06 13:01:847 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (2424fa5c043ff910d9e1cf39278c3585)] -> xpath: //input[@id='password']]
+2021-01-06 13:01:484 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (2424fa5c043ff910d9e1cf39278c3585)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 13:01:555 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (2424fa5c043ff910d9e1cf39278c3585)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:657 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:860 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:269 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (8de660459fd393a69958cdefe21c9d4a)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:800 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (8de660459fd393a69958cdefe21c9d4a)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:127 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (8de660459fd393a69958cdefe21c9d4a)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:205 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (8de660459fd393a69958cdefe21c9d4a)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:275 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:442 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:620 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (e837dea0174be74c28c145fd5c2a24af)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:817 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (e837dea0174be74c28c145fd5c2a24af)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:423 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (e837dea0174be74c28c145fd5c2a24af)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:497 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (e837dea0174be74c28c145fd5c2a24af)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:536 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:18 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:240 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (bda05f9afc1b102d00a37aad1a0e0859)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:438 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (bda05f9afc1b102d00a37aad1a0e0859)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:35 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (bda05f9afc1b102d00a37aad1a0e0859)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:100 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (bda05f9afc1b102d00a37aad1a0e0859)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:221 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:427 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:828 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (a3b3cc871a2ae54687d426e94a973b0b)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:91 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (a3b3cc871a2ae54687d426e94a973b0b)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:929 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (a3b3cc871a2ae54687d426e94a973b0b)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:993 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (a3b3cc871a2ae54687d426e94a973b0b)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:80 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:975 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:187 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (41a1405ba63b70e84f3e554366aa183d)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:411 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (41a1405ba63b70e84f3e554366aa183d)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:226 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (41a1405ba63b70e84f3e554366aa183d)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:286 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (41a1405ba63b70e84f3e554366aa183d)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:331 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:168 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:448 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (f7542a00dab2fb30bba7919ab224044c)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:750 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (f7542a00dab2fb30bba7919ab224044c)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:447 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (f7542a00dab2fb30bba7919ab224044c)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:519 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (f7542a00dab2fb30bba7919ab224044c)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:521 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:610 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:920 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (8c3d7b1d3c84720f0c04b8d326694db8)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:181 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (8c3d7b1d3c84720f0c04b8d326694db8)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:136 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (8c3d7b1d3c84720f0c04b8d326694db8)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:162 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:568 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:814 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (56ccbf34e2f7203d5c384454650f3fd0)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:14 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (56ccbf34e2f7203d5c384454650f3fd0)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:615 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (56ccbf34e2f7203d5c384454650f3fd0)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:636 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:947 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:215 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (c55196d5db4f812241fac5c5c02b3dbc)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:520 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (c55196d5db4f812241fac5c5c02b3dbc)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:184 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (c55196d5db4f812241fac5c5c02b3dbc)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:914 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:50 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:398 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (7af831334eef339208e2685070c19a39)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:676 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (7af831334eef339208e2685070c19a39)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:465 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (7af831334eef339208e2685070c19a39)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:528 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (7af831334eef339208e2685070c19a39)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:618 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:932 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:138 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (6487b01749999693730b8e779f543279)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:375 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (6487b01749999693730b8e779f543279)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:78 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (6487b01749999693730b8e779f543279)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:134 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (6487b01749999693730b8e779f543279)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:189 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:806 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:976 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (9e1537702fdbc3dc028978583f10b31e)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:163 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (9e1537702fdbc3dc028978583f10b31e)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:698 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (9e1537702fdbc3dc028978583f10b31e)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:769 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (9e1537702fdbc3dc028978583f10b31e)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:268 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:878 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:119 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (cd039c4f371331e05d160c3245f26b37)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:374 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (cd039c4f371331e05d160c3245f26b37)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:55 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (cd039c4f371331e05d160c3245f26b37)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:129 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (cd039c4f371331e05d160c3245f26b37)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:222 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:251 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:445 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (5deb1b94f1df035e7ee37045259d704c)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:639 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (5deb1b94f1df035e7ee37045259d704c)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:262 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (5deb1b94f1df035e7ee37045259d704c)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:323 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (5deb1b94f1df035e7ee37045259d704c)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:376 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:358 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:583 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (1e9e2a8a39bec23a2be553a44f8a0611)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:791 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (1e9e2a8a39bec23a2be553a44f8a0611)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:350 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (1e9e2a8a39bec23a2be553a44f8a0611)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:420 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (1e9e2a8a39bec23a2be553a44f8a0611)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:368 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:651 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:970 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (283f80495e1ac9062a14616a5f4ac681)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:256 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (283f80495e1ac9062a14616a5f4ac681)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:998 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (283f80495e1ac9062a14616a5f4ac681)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:79 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (283f80495e1ac9062a14616a5f4ac681)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:177 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:587 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:814 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (f79b4fd2d9c5aa95c1d5b754ebf12bdf)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:36 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (f79b4fd2d9c5aa95c1d5b754ebf12bdf)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:694 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (f79b4fd2d9c5aa95c1d5b754ebf12bdf)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:757 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (f79b4fd2d9c5aa95c1d5b754ebf12bdf)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:812 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:420 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:647 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (cd5e20b36d68053a8e377f1f5039e65e)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:871 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (cd5e20b36d68053a8e377f1f5039e65e)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:516 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (cd5e20b36d68053a8e377f1f5039e65e)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:597 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (cd5e20b36d68053a8e377f1f5039e65e)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:582 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:591 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:838 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (dcbc4f36dcec0cb03e3717e6cc0b1198)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:33 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (dcbc4f36dcec0cb03e3717e6cc0b1198)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:43 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (dcbc4f36dcec0cb03e3717e6cc0b1198)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:118 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (dcbc4f36dcec0cb03e3717e6cc0b1198)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:175 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:610 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:29 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (02121971ef162ca50af4685877e89e2e)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:308 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (02121971ef162ca50af4685877e89e2e)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:181 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (02121971ef162ca50af4685877e89e2e)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:257 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (02121971ef162ca50af4685877e89e2e)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:363 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:814 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:31 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (cfc83398afc472a3f2f3b8714ed99d9d)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:255 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (cfc83398afc472a3f2f3b8714ed99d9d)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:975 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (cfc83398afc472a3f2f3b8714ed99d9d)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:24 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (cfc83398afc472a3f2f3b8714ed99d9d)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:841 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:759 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:833 INFO  HomePage :76 - Getting Login text message[[ChromeDriver: chrome on WINDOWS (3651abd3775d6128a849bf497dd61806)] -> xpath: //h2[contains(text(),'Login Page')]]
+2021-01-06 14:01:707 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:67 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:273 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (936b7269c74b3378074056acb933ecaa)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:520 INFO  HomePage :55 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (936b7269c74b3378074056acb933ecaa)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:315 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (936b7269c74b3378074056acb933ecaa)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:383 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (936b7269c74b3378074056acb933ecaa)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:774 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:617 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:804 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (7110939cf54bcd597b46fde2e9475d50)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:972 INFO  HomePage :55 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (7110939cf54bcd597b46fde2e9475d50)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:532 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (7110939cf54bcd597b46fde2e9475d50)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:610 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (7110939cf54bcd597b46fde2e9475d50)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:841 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:614 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:839 INFO  HomePage :49 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (e463a08222b5819b85fefa97d23278bf)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:101 INFO  HomePage :55 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (e463a08222b5819b85fefa97d23278bf)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:714 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (e463a08222b5819b85fefa97d23278bf)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:776 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (e463a08222b5819b85fefa97d23278bf)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:879 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:271 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:535 INFO  HomePage :49 - Entering UsernamejackstasOn username Field[[ChromeDriver: chrome on WINDOWS (9839c2940535baa7f7fd545ec74003d7)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:874 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (9839c2940535baa7f7fd545ec74003d7)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:580 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (9839c2940535baa7f7fd545ec74003d7)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:640 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (9839c2940535baa7f7fd545ec74003d7)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:846 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:364 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:720 INFO  HomePage :49 - Entering UsernamemonikablackOn username Field[[ChromeDriver: chrome on WINDOWS (bcdc9ba2bf108ace4b4e5ab74adb3567)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:997 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (bcdc9ba2bf108ace4b4e5ab74adb3567)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:636 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (bcdc9ba2bf108ace4b4e5ab74adb3567)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:716 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (bcdc9ba2bf108ace4b4e5ab74adb3567)] -> xpath: //div[@id='flash']]
+2021-01-06 14:01:910 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 14:01:751 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 14:01:955 INFO  HomePage :49 - Entering UsernameromankurhajecOn username Field[[ChromeDriver: chrome on WINDOWS (7a6aa5ca892845c38e9183cab420c91a)] -> xpath: //input[@id='username']]
+2021-01-06 14:01:178 INFO  HomePage :55 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (7a6aa5ca892845c38e9183cab420c91a)] -> xpath: //input[@id='password']]
+2021-01-06 14:01:766 INFO  HomePage :61 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (7a6aa5ca892845c38e9183cab420c91a)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 14:01:834 INFO  HomePage :66 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (7a6aa5ca892845c38e9183cab420c91a)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:170 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:918 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:463 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:340 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:410 INFO  HomePage :79 - Getting Login text message[[ChromeDriver: chrome on WINDOWS (e057654c6657c729879bcc7fb908d314)] -> xpath: //h2[contains(text(),'Login Page')]]
+2021-01-06 15:01:507 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:123 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:878 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:646 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:847 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (8c57bc945baf50cb851073b4a0b1586f)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:125 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (8c57bc945baf50cb851073b4a0b1586f)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:822 INFO  HomePage :59 - Clicking on Login Button Proxy element for: DefaultElementLocator 'By.xpath: //i[contains(text(),'Login')]'
+2021-01-06 15:01:111 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:81 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:154 INFO  HomePage :79 - Getting Login text message[[ChromeDriver: chrome on WINDOWS (e6dac6ee8917b8e57e470f7461a31ea2)] -> xpath: //h2[contains(text(),'Login Page')]]
+2021-01-06 15:01:227 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:450 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:665 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (11cf42cce3b6cc34078d46a3e6485d7a)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:889 INFO  HomePage :53 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (11cf42cce3b6cc34078d46a3e6485d7a)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:607 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (11cf42cce3b6cc34078d46a3e6485d7a)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:668 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (11cf42cce3b6cc34078d46a3e6485d7a)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:628 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:321 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:530 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (ff2efe57120ada967cd8cb4edeed21a4)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:716 INFO  HomePage :53 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (ff2efe57120ada967cd8cb4edeed21a4)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:546 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (ff2efe57120ada967cd8cb4edeed21a4)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:611 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (ff2efe57120ada967cd8cb4edeed21a4)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:646 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:779 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:10 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (26535d7c034859bd132e217feffae420)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:239 INFO  HomePage :53 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (26535d7c034859bd132e217feffae420)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:829 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (26535d7c034859bd132e217feffae420)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:902 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (26535d7c034859bd132e217feffae420)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:973 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:911 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:98 INFO  HomePage :47 - Entering UsernamejackstasOn username Field[[ChromeDriver: chrome on WINDOWS (82530b744fc5e6e58034359b32a9e02e)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:330 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (82530b744fc5e6e58034359b32a9e02e)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:996 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (82530b744fc5e6e58034359b32a9e02e)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:55 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (82530b744fc5e6e58034359b32a9e02e)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:567 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:64 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:406 INFO  HomePage :47 - Entering UsernamemonikablackOn username Field[[ChromeDriver: chrome on WINDOWS (bff597b345cb8a16ff14f775919363b5)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:663 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (bff597b345cb8a16ff14f775919363b5)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:404 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (bff597b345cb8a16ff14f775919363b5)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:469 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (bff597b345cb8a16ff14f775919363b5)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:537 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:852 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:40 INFO  HomePage :47 - Entering UsernameromankurhajecOn username Field[[ChromeDriver: chrome on WINDOWS (29f544c1a69c4878aab5d09c92258ae4)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:273 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (29f544c1a69c4878aab5d09c92258ae4)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:816 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (29f544c1a69c4878aab5d09c92258ae4)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:877 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (29f544c1a69c4878aab5d09c92258ae4)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:832 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:599 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:834 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (0da9ed615b5be45b829081d65d57f045)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:81 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (0da9ed615b5be45b829081d65d57f045)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:829 INFO  HomePage :59 - Clicking on Login Button Proxy element for: DefaultElementLocator 'By.xpath: //i[contains(text(),'Login')]'
+2021-01-06 15:01:125 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:701 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:764 INFO  HomePage :79 - Getting Login text message[[ChromeDriver: chrome on WINDOWS (81a52c20531ece750965c0bb83889966)] -> xpath: //h2[contains(text(),'Login Page')]]
+2021-01-06 15:01:263 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:770 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:976 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (c13d816b12d377dfd52969f18fee3979)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:143 INFO  HomePage :53 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (c13d816b12d377dfd52969f18fee3979)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:780 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (c13d816b12d377dfd52969f18fee3979)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:843 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (c13d816b12d377dfd52969f18fee3979)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:920 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:151 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:356 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (d839bfd9cbab248bfc5936f9af298088)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:562 INFO  HomePage :53 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (d839bfd9cbab248bfc5936f9af298088)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:232 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (d839bfd9cbab248bfc5936f9af298088)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:289 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (d839bfd9cbab248bfc5936f9af298088)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:465 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:32 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:236 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (ea4f29452caceab29a97656cd9995103)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:468 INFO  HomePage :53 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (ea4f29452caceab29a97656cd9995103)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:139 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (ea4f29452caceab29a97656cd9995103)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:196 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (ea4f29452caceab29a97656cd9995103)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:294 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:935 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:92 INFO  HomePage :47 - Entering UsernamejackstasOn username Field[[ChromeDriver: chrome on WINDOWS (13a4a8e5277139b2037d1cfdc0c8768d)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:303 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (13a4a8e5277139b2037d1cfdc0c8768d)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:937 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (13a4a8e5277139b2037d1cfdc0c8768d)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:10 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (13a4a8e5277139b2037d1cfdc0c8768d)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:27 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:478 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:790 INFO  HomePage :47 - Entering UsernamemonikablackOn username Field[[ChromeDriver: chrome on WINDOWS (d1f8b3f1af98de69f0b31f7398692636)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:52 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (d1f8b3f1af98de69f0b31f7398692636)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:743 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (d1f8b3f1af98de69f0b31f7398692636)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:793 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (d1f8b3f1af98de69f0b31f7398692636)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:02 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:559 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:794 INFO  HomePage :47 - Entering UsernameromankurhajecOn username Field[[ChromeDriver: chrome on WINDOWS (d071880769b244d6ab9c92e5ff61ed6b)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:46 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (d071880769b244d6ab9c92e5ff61ed6b)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:755 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (d071880769b244d6ab9c92e5ff61ed6b)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:811 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (d071880769b244d6ab9c92e5ff61ed6b)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:865 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:845 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:47 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (29dacf06b0e4d8fe50ddace41b2ddfd8)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:283 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (29dacf06b0e4d8fe50ddace41b2ddfd8)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:468 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:894 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:152 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (0551ebb662754bc922129be4cb0081d4)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:414 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (0551ebb662754bc922129be4cb0081d4)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:625 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:510 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:843 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (30287f9210216171edf0618cda1c97b9)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:193 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (30287f9210216171edf0618cda1c97b9)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:722 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:64 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:344 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (d1748afdbf24c9baa0eed2a0dfa98007)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:643 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (d1748afdbf24c9baa0eed2a0dfa98007)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:387 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:92 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:315 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (12b53f15a82bfc60781abf490b77087f)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:514 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (12b53f15a82bfc60781abf490b77087f)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:01 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:463 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:786 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (cb64b03240ba60224758ea7e86a42fad)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:118 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (cb64b03240ba60224758ea7e86a42fad)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:868 INFO  HomePage :59 - Clicking on Login Button Proxy element for: DefaultElementLocator 'By.xpath: //i[contains(text(),'Login')]'
+2021-01-06 15:01:531 INFO  HomePage :74 - Clicking on Log out Button Proxy element for: DefaultElementLocator 'By.xpath: //i[contains(text(),'Logout')]'
+2021-01-06 15:01:847 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:552 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:615 INFO  HomePage :79 - Getting Login text message[[ChromeDriver: chrome on WINDOWS (2a38577a8f3c33a1cca5c9eed281be86)] -> xpath: //h2[contains(text(),'Login Page')]]
+2021-01-06 15:01:708 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:628 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:857 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (684a69b0b22f38f24cda6fbc4a9bc4a1)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:67 INFO  HomePage :53 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (684a69b0b22f38f24cda6fbc4a9bc4a1)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:266 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (684a69b0b22f38f24cda6fbc4a9bc4a1)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:333 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (684a69b0b22f38f24cda6fbc4a9bc4a1)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:439 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:847 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:62 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (bc128b0bbd7ce78f60a54d58fa48fdcb)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:230 INFO  HomePage :53 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (bc128b0bbd7ce78f60a54d58fa48fdcb)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:638 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (bc128b0bbd7ce78f60a54d58fa48fdcb)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:691 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (bc128b0bbd7ce78f60a54d58fa48fdcb)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:637 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:44 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:249 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (bd065f66a520501c60aa56176137db8b)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:450 INFO  HomePage :53 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (bd065f66a520501c60aa56176137db8b)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:98 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (bd065f66a520501c60aa56176137db8b)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:153 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (bd065f66a520501c60aa56176137db8b)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:146 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:376 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:633 INFO  HomePage :47 - Entering UsernamejackstasOn username Field[[ChromeDriver: chrome on WINDOWS (ee2b8b2410d96b4680c59c0015bb8076)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:968 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (ee2b8b2410d96b4680c59c0015bb8076)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:722 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (ee2b8b2410d96b4680c59c0015bb8076)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:818 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (ee2b8b2410d96b4680c59c0015bb8076)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:254 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:525 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:708 INFO  HomePage :47 - Entering UsernamemonikablackOn username Field[[ChromeDriver: chrome on WINDOWS (d807e2661c823964f2bf5a31a399c21b)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:998 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (d807e2661c823964f2bf5a31a399c21b)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:608 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (d807e2661c823964f2bf5a31a399c21b)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:686 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (d807e2661c823964f2bf5a31a399c21b)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:764 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:298 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:543 INFO  HomePage :47 - Entering UsernameromankurhajecOn username Field[[ChromeDriver: chrome on WINDOWS (34b3e271a52f77d76555319da1dba09d)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:862 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (34b3e271a52f77d76555319da1dba09d)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:496 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (34b3e271a52f77d76555319da1dba09d)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-06 15:01:552 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (34b3e271a52f77d76555319da1dba09d)] -> xpath: //div[@id='flash']]
+2021-01-06 15:01:524 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 15:01:459 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-06 15:01:643 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (f74fbc67bd954798f42653ba480ae196)] -> xpath: //input[@id='username']]
+2021-01-06 15:01:810 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (f74fbc67bd954798f42653ba480ae196)] -> xpath: //input[@id='password']]
+2021-01-06 15:01:383 INFO  HomePage :59 - Clicking on Login Button Proxy element for: DefaultElementLocator 'By.xpath: //i[contains(text(),'Login')]'
+2021-01-06 15:01:39 INFO  HomePage :72 - Clicking on Log out Button Proxy element for: DefaultElementLocator 'By.xpath: //i[contains(text(),'Logout')]'
+2021-01-06 16:01:94 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:256 INFO  InfiniteScrollPage :34 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:780 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:243 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:287 INFO  InfiniteScrollPage :40 - scroll Down window 
+2021-01-06 16:01:974 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:465 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:525 INFO  InfiniteScrollPage :40 - scroll Down window 
+2021-01-06 16:01:45 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:126 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:201 INFO  InfiniteScrollPage :40 - scroll Down window 
+2021-01-06 16:01:497 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:322 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:353 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:379 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:509 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:421 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:457 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:482 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:510 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:524 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:292 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:705 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:737 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:767 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:836 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:960 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:999 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:33 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:53 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:66 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:542 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:747 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:785 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:815 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:834 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:862 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:596 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:287 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:445 INFO  InfiniteScrollPage :41 - scroll Down window 
+2021-01-06 16:01:852 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:805 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:882 INFO  InfiniteScrollPage :40 - scroll Down window 
+2021-01-06 16:01:582 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:445 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:530 INFO  InfiniteScrollPage :40 - scroll Down window 
+2021-01-06 16:01:577 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:110 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:161 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:194 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 16:01:613 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:754 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:804 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:850 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 16:01:459 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:232 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:277 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:313 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 16:01:435 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:679 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:720 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:742 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 16:01:831 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:477 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:537 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 16:01:705 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 16:01:486 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 16:01:529 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 17:01:193 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 17:01:140 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 17:01:185 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 17:01:809 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 17:01:719 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 17:01:760 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 17:01:38 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 17:01:726 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 17:01:781 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 17:01:995 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 17:01:21 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 17:01:333 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 17:01:419 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 17:01:478 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 17:01:925 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 17:01:739 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 17:01:791 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 17:01:837 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 17:01:93 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 17:01:62 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 17:01:832 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 17:01:307 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 17:01:311 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 17:01:124 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 17:01:614 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 17:01:675 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 17:01:717 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:303 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:362 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:419 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:64 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:831 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:884 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:123 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:712 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:920 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:953 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:96 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:27 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:906 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:68 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:210 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:938 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:577 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:628 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:774 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:362 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:456 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:502 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:657 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:45 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:487 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:663 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:771 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:800 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:193 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:394 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:554 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:217 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:142 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:370 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:605 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:204 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:59 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:227 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:397 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:780 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:396 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:553 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:702 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:872 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:511 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:725 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:889 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:764 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:266 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:487 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:758 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:915 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:208 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:361 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:481 INFO  InfiniteScrollPage :44 - scroll Down window 
+2021-01-06 22:01:443 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:147 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:293 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:415 INFO  InfiniteScrollPage :45 - scroll Down window 
+2021-01-06 22:01:944 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:799 INFO  InfiniteScrollPage :33 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:954 INFO  InfiniteScrollPage :39 - scroll Down window 
+2021-01-06 22:01:52 INFO  InfiniteScrollPage :45 - scroll Down window 
+2021-01-06 22:01:326 INFO  InfiniteScrollPage :51 - scroll up window 
+2021-01-06 22:01:599 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 22:01:137 INFO  InfiniteScrollPage :36 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-06 22:01:293 INFO  InfiniteScrollPage :42 - scroll Down window 
+2021-01-06 22:01:416 INFO  InfiniteScrollPage :48 - scroll Down window 
+2021-01-06 22:01:593 INFO  InfiniteScrollPage :54 - scroll up window 
+2021-01-06 22:01:662 INFO  InfiniteScrollPage :59 - Getting Infinite text message[[ChromeDriver: chrome on WINDOWS (062e24122d865eae891e8ac5733fca63)] -> xpath: //h3[contains(text(),'Infinite Scroll')]]
+2021-01-06 23:01:821 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:870 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:340 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:584 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:979 INFO  KeyPressesPage :45 - Entering alphabetsABCDOn key press Field[[ChromeDriver: chrome on WINDOWS (5ae8cec242c65c908fd3cd2c54f86860)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:386 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:21 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:250 INFO  KeyPressesPage :45 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (40dc574bc03382cef0e2ff2f9ae9c349)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:315 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (40dc574bc03382cef0e2ff2f9ae9c349)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:407 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:541 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:798 INFO  KeyPressesPage :45 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (c38c9175bd2bd314a59f5b331c986126)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:875 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (c38c9175bd2bd314a59f5b331c986126)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:946 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:892 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:65 INFO  KeyPressesPage :45 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (f2ef2349da758f74c864719da2e365bf)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:143 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (f2ef2349da758f74c864719da2e365bf)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:210 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:104 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:324 INFO  KeyPressesPage :45 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (dae1cef58a45d382fc2873c46b1de096)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:389 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (dae1cef58a45d382fc2873c46b1de096)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:872 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:465 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:777 INFO  KeyPressesPage :45 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (51cfb0b4f029ed9ff2528480d783df92)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:863 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (51cfb0b4f029ed9ff2528480d783df92)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:945 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:610 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:803 INFO  KeyPressesPage :45 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (cc02fdb571b3db966b96b486f03ffba3)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:889 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (cc02fdb571b3db966b96b486f03ffba3)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:989 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:106 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:290 INFO  KeyPressesPage :45 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (58cac61bf89912e53c96634ec0572f1a)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:370 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (58cac61bf89912e53c96634ec0572f1a)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:437 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:06 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:254 INFO  KeyPressesPage :45 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (e0467258a708e3ef2c6e9404122efa89)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:338 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (e0467258a708e3ef2c6e9404122efa89)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:776 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:900 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:161 INFO  KeyPressesPage :45 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (a87133c7b6d411e9c0ccbb5ad0918245)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:219 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (a87133c7b6d411e9c0ccbb5ad0918245)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:312 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:525 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:754 INFO  KeyPressesPage :45 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (9f946dae1d836dbe2a99216f91128dfa)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:833 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (9f946dae1d836dbe2a99216f91128dfa)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:931 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:815 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:981 INFO  KeyPressesPage :45 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (d5a57e500bb9718f02063d8d42fd5c38)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:41 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (d5a57e500bb9718f02063d8d42fd5c38)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:102 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:494 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:679 INFO  KeyPressesPage :45 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (ce6d719d9b1267db219df4b1235d0d3e)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:739 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (ce6d719d9b1267db219df4b1235d0d3e)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:161 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:277 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:626 INFO  KeyPressesPage :45 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (84db4533753577f2b5deece9bbe56fb9)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:703 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (84db4533753577f2b5deece9bbe56fb9)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:822 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (84db4533753577f2b5deece9bbe56fb9)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:901 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:79 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:300 INFO  KeyPressesPage :45 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (0eaf1e4529e8c171032bf29e3ebd021d)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:356 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (0eaf1e4529e8c171032bf29e3ebd021d)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:420 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:337 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:503 INFO  KeyPressesPage :45 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (0f0b5410613f206fa7a5e683f9ad4396)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:580 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (0f0b5410613f206fa7a5e683f9ad4396)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:641 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:511 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:717 INFO  KeyPressesPage :45 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (236868f3899809be143a904c7184a712)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:784 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (236868f3899809be143a904c7184a712)] -> xpath: //p[@id='result']]
+2021-01-06 23:01:948 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-06 23:01:91 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-06 23:01:275 INFO  KeyPressesPage :45 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (00d603b70a44d02122ac301db9ddbc65)] -> xpath: //input[@id='target']]
+2021-01-06 23:01:336 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (00d603b70a44d02122ac301db9ddbc65)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:77 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:958 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:245 INFO  KeyPressesPage :45 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (a6599e8312d91b9bdf61a467cc58ce77)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:315 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (a6599e8312d91b9bdf61a467cc58ce77)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:564 INFO  KeyPressesPage :45 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (a6599e8312d91b9bdf61a467cc58ce77)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:618 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (a6599e8312d91b9bdf61a467cc58ce77)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:529 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:375 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:598 INFO  KeyPressesPage :45 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (15788de434e5dde943f78e835f425085)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:682 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (15788de434e5dde943f78e835f425085)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:856 INFO  KeyPressesPage :45 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (15788de434e5dde943f78e835f425085)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:912 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (15788de434e5dde943f78e835f425085)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:339 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:849 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:59 INFO  KeyPressesPage :45 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (c5ed2f22900e111d59ba51c68d8e1659)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:138 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (c5ed2f22900e111d59ba51c68d8e1659)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:970 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:889 INFO  KeyPressesPage :39 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:168 INFO  KeyPressesPage :45 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (62692d22cc1a31943a7a79fa72b31001)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:253 INFO  KeyPressesPage :50 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (62692d22cc1a31943a7a79fa72b31001)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:918 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:534 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:785 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (bf1426ab1fdcc602ea3ad6d2bab617c8)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:841 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (bf1426ab1fdcc602ea3ad6d2bab617c8)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:167 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (bf1426ab1fdcc602ea3ad6d2bab617c8)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:213 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (bf1426ab1fdcc602ea3ad6d2bab617c8)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:436 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:800 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:02 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (4be1a2561389e7dee4e6b19601ee401c)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:60 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (4be1a2561389e7dee4e6b19601ee401c)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:278 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (4be1a2561389e7dee4e6b19601ee401c)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:320 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (4be1a2561389e7dee4e6b19601ee401c)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:557 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:542 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:986 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (51c2d85a784e24a381295162c8b014fe)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:92 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (51c2d85a784e24a381295162c8b014fe)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:639 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (51c2d85a784e24a381295162c8b014fe)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:696 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (51c2d85a784e24a381295162c8b014fe)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:522 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:192 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:455 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (f291b5455ae3944482f235cbd096c3c5)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:543 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (f291b5455ae3944482f235cbd096c3c5)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:856 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (f291b5455ae3944482f235cbd096c3c5)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:922 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (f291b5455ae3944482f235cbd096c3c5)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:210 INFO  KeyPressesPage :46 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (f291b5455ae3944482f235cbd096c3c5)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:269 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (f291b5455ae3944482f235cbd096c3c5)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:508 INFO  KeyPressesPage :46 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (f291b5455ae3944482f235cbd096c3c5)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:561 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (f291b5455ae3944482f235cbd096c3c5)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:460 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:66 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:294 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (791cd73317278cc8ab3ec9c9ac52dd14)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:358 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (791cd73317278cc8ab3ec9c9ac52dd14)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:668 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (791cd73317278cc8ab3ec9c9ac52dd14)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:726 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (791cd73317278cc8ab3ec9c9ac52dd14)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:945 INFO  KeyPressesPage :46 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (791cd73317278cc8ab3ec9c9ac52dd14)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:993 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (791cd73317278cc8ab3ec9c9ac52dd14)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:259 INFO  KeyPressesPage :46 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (791cd73317278cc8ab3ec9c9ac52dd14)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:322 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (791cd73317278cc8ab3ec9c9ac52dd14)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:233 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:106 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:384 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (221240fbd7c30ccbd45b84eb34b8b7e0)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:469 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (221240fbd7c30ccbd45b84eb34b8b7e0)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:809 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (221240fbd7c30ccbd45b84eb34b8b7e0)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:873 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (221240fbd7c30ccbd45b84eb34b8b7e0)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:149 INFO  KeyPressesPage :46 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (221240fbd7c30ccbd45b84eb34b8b7e0)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:209 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (221240fbd7c30ccbd45b84eb34b8b7e0)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:517 INFO  KeyPressesPage :46 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (221240fbd7c30ccbd45b84eb34b8b7e0)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:584 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (221240fbd7c30ccbd45b84eb34b8b7e0)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:757 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:277 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:551 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (fc6a1fa80d5a3cc98ab776fb4b5304c2)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:628 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (fc6a1fa80d5a3cc98ab776fb4b5304c2)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:08 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (fc6a1fa80d5a3cc98ab776fb4b5304c2)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:66 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (fc6a1fa80d5a3cc98ab776fb4b5304c2)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:363 INFO  KeyPressesPage :46 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (fc6a1fa80d5a3cc98ab776fb4b5304c2)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:425 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (fc6a1fa80d5a3cc98ab776fb4b5304c2)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:714 INFO  KeyPressesPage :46 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (fc6a1fa80d5a3cc98ab776fb4b5304c2)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:775 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (fc6a1fa80d5a3cc98ab776fb4b5304c2)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:167 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:980 INFO  InfiniteScrollPage :36 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-07 00:01:147 INFO  InfiniteScrollPage :42 - scroll Down window 
+2021-01-07 00:01:358 INFO  InfiniteScrollPage :48 - scroll Down window 
+2021-01-07 00:01:505 INFO  InfiniteScrollPage :54 - scroll up window 
+2021-01-07 00:01:577 INFO  InfiniteScrollPage :59 - Getting Infinite text message[[ChromeDriver: chrome on WINDOWS (c294f21127d1d9dc808cdb8e02a7d2db)] -> xpath: //h3[contains(text(),'Infinite Scroll')]]
+2021-01-07 00:01:653 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:884 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:95 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (e71505d04b43d0ec97546966fc81a72d)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:164 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (e71505d04b43d0ec97546966fc81a72d)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:428 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (e71505d04b43d0ec97546966fc81a72d)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:472 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (e71505d04b43d0ec97546966fc81a72d)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:707 INFO  KeyPressesPage :46 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (e71505d04b43d0ec97546966fc81a72d)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:754 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (e71505d04b43d0ec97546966fc81a72d)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:17 INFO  KeyPressesPage :46 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (e71505d04b43d0ec97546966fc81a72d)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:90 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (e71505d04b43d0ec97546966fc81a72d)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:151 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:674 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 00:01:737 INFO  HomePage :79 - Getting Login text message[[ChromeDriver: chrome on WINDOWS (6912985363791080ab68265cff3d8699)] -> xpath: //h2[contains(text(),'Login Page')]]
+2021-01-07 00:01:788 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:619 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 00:01:846 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (67c3b0b824c7aa74d3add3c8884c13b3)] -> xpath: //input[@id='username']]
+2021-01-07 00:01:101 INFO  HomePage :53 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (67c3b0b824c7aa74d3add3c8884c13b3)] -> xpath: //input[@id='password']]
+2021-01-07 00:01:789 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (67c3b0b824c7aa74d3add3c8884c13b3)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-07 00:01:869 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (67c3b0b824c7aa74d3add3c8884c13b3)] -> xpath: //div[@id='flash']]
+2021-01-07 00:01:913 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:980 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 00:01:184 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (6395857c7c602dfb6e22dd1d1bb19f1f)] -> xpath: //input[@id='username']]
+2021-01-07 00:01:412 INFO  HomePage :53 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (6395857c7c602dfb6e22dd1d1bb19f1f)] -> xpath: //input[@id='password']]
+2021-01-07 00:01:174 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (6395857c7c602dfb6e22dd1d1bb19f1f)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-07 00:01:233 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (6395857c7c602dfb6e22dd1d1bb19f1f)] -> xpath: //div[@id='flash']]
+2021-01-07 00:01:280 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:915 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 00:01:364 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (9c6921d479c7c5480e4becfcbb856f0c)] -> xpath: //input[@id='username']]
+2021-01-07 00:01:842 INFO  HomePage :53 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (9c6921d479c7c5480e4becfcbb856f0c)] -> xpath: //input[@id='password']]
+2021-01-07 00:01:644 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (9c6921d479c7c5480e4becfcbb856f0c)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-07 00:01:734 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (9c6921d479c7c5480e4becfcbb856f0c)] -> xpath: //div[@id='flash']]
+2021-01-07 00:01:825 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:730 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 00:01:936 INFO  HomePage :47 - Entering UsernamejackstasOn username Field[[ChromeDriver: chrome on WINDOWS (9198cb5b57464563bfbdad03a1b048f2)] -> xpath: //input[@id='username']]
+2021-01-07 00:01:225 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (9198cb5b57464563bfbdad03a1b048f2)] -> xpath: //input[@id='password']]
+2021-01-07 00:01:942 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (9198cb5b57464563bfbdad03a1b048f2)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-07 00:01:27 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (9198cb5b57464563bfbdad03a1b048f2)] -> xpath: //div[@id='flash']]
+2021-01-07 00:01:73 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:482 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 00:01:786 INFO  HomePage :47 - Entering UsernamemonikablackOn username Field[[ChromeDriver: chrome on WINDOWS (c9203729f0d62ca261091c12991e6c9c)] -> xpath: //input[@id='username']]
+2021-01-07 00:01:34 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (c9203729f0d62ca261091c12991e6c9c)] -> xpath: //input[@id='password']]
+2021-01-07 00:01:739 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (c9203729f0d62ca261091c12991e6c9c)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-07 00:01:811 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (c9203729f0d62ca261091c12991e6c9c)] -> xpath: //div[@id='flash']]
+2021-01-07 00:01:856 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:30 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 00:01:337 INFO  HomePage :47 - Entering UsernameromankurhajecOn username Field[[ChromeDriver: chrome on WINDOWS (c1a843bd0ef9de9a9bee03cdd60f3caa)] -> xpath: //input[@id='username']]
+2021-01-07 00:01:807 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (c1a843bd0ef9de9a9bee03cdd60f3caa)] -> xpath: //input[@id='password']]
+2021-01-07 00:01:767 INFO  HomePage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (c1a843bd0ef9de9a9bee03cdd60f3caa)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-07 00:01:824 INFO  HomePage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (c1a843bd0ef9de9a9bee03cdd60f3caa)] -> xpath: //div[@id='flash']]
+2021-01-07 00:01:891 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:185 INFO  HomePage :40 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 00:01:384 INFO  HomePage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (c06bebd69d7e252860718f909effe671)] -> xpath: //input[@id='username']]
+2021-01-07 00:01:691 INFO  HomePage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (c06bebd69d7e252860718f909effe671)] -> xpath: //input[@id='password']]
+2021-01-07 00:01:326 INFO  HomePage :59 - Clicking on Login Button Proxy element for: DefaultElementLocator 'By.xpath: //i[contains(text(),'Login')]'
+2021-01-07 00:01:921 INFO  HomePage :72 - Clicking on Log out Button Proxy element for: DefaultElementLocator 'By.xpath: //i[contains(text(),'Logout')]'
+2021-01-07 00:01:101 INFO  BrowserSelector :42 - Launching Chrome Browser
+2021-01-07 00:01:893 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 00:01:143 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (abe39a4d8a299e6e6893c9f3ff84a7b6)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:213 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (abe39a4d8a299e6e6893c9f3ff84a7b6)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:526 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (abe39a4d8a299e6e6893c9f3ff84a7b6)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:590 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (abe39a4d8a299e6e6893c9f3ff84a7b6)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:856 INFO  KeyPressesPage :46 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (abe39a4d8a299e6e6893c9f3ff84a7b6)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:914 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (abe39a4d8a299e6e6893c9f3ff84a7b6)] -> xpath: //p[@id='result']]
+2021-01-07 00:01:178 INFO  KeyPressesPage :46 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (abe39a4d8a299e6e6893c9f3ff84a7b6)] -> xpath: //input[@id='target']]
+2021-01-07 00:01:243 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (abe39a4d8a299e6e6893c9f3ff84a7b6)] -> xpath: //p[@id='result']]
+2021-01-07 01:01:865 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 01:01:528 INFO  InfiniteScrollPage :36 - Clicking on Infinite Scroll FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Infinite Scroll')]'
+2021-01-07 01:01:634 INFO  InfiniteScrollPage :42 - scroll Down window 
+2021-01-07 01:01:695 INFO  InfiniteScrollPage :48 - scroll Down window 
+2021-01-07 01:01:785 INFO  InfiniteScrollPage :54 - scroll up window 
+2021-01-07 01:01:852 INFO  InfiniteScrollPage :59 - Getting Infinite text message[[ChromeDriver: chrome on WINDOWS (5d1de6bfa5c8008e32276b6e48655e7f)] -> xpath: //h3[contains(text(),'Infinite Scroll')]]
+2021-01-07 01:01:818 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 01:01:646 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 01:01:843 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (0e9811669f64ff20185a52e324f593b9)] -> xpath: //input[@id='target']]
+2021-01-07 01:01:896 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (0e9811669f64ff20185a52e324f593b9)] -> xpath: //p[@id='result']]
+2021-01-07 01:01:63 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (0e9811669f64ff20185a52e324f593b9)] -> xpath: //input[@id='target']]
+2021-01-07 01:01:200 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (0e9811669f64ff20185a52e324f593b9)] -> xpath: //input[@id='target']]
+2021-01-07 01:01:250 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (0e9811669f64ff20185a52e324f593b9)] -> xpath: //p[@id='result']]
+2021-01-07 01:01:406 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (0e9811669f64ff20185a52e324f593b9)] -> xpath: //input[@id='target']]
+2021-01-07 01:01:560 INFO  KeyPressesPage :46 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (0e9811669f64ff20185a52e324f593b9)] -> xpath: //input[@id='target']]
+2021-01-07 01:01:608 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (0e9811669f64ff20185a52e324f593b9)] -> xpath: //p[@id='result']]
+2021-01-07 01:01:731 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (0e9811669f64ff20185a52e324f593b9)] -> xpath: //input[@id='target']]
+2021-01-07 01:01:871 INFO  KeyPressesPage :46 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (0e9811669f64ff20185a52e324f593b9)] -> xpath: //input[@id='target']]
+2021-01-07 01:01:917 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (0e9811669f64ff20185a52e324f593b9)] -> xpath: //p[@id='result']]
+2021-01-07 01:01:55 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 01:01:231 INFO  HomePage :39 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 01:01:292 INFO  LoginPage :79 - Getting Login text message[[ChromeDriver: chrome on WINDOWS (7fecbf13de4a69d3ebb2344af847436f)] -> xpath: //h2[contains(text(),'Login Page')]]
+2021-01-07 01:01:523 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 01:01:724 INFO  HomePage :39 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 01:01:890 INFO  LoginPage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (f2c01511b5f70f3abc085936d5e1e57c)] -> xpath: //input[@id='username']]
+2021-01-07 01:01:84 INFO  LoginPage :53 - Entering Password 1234@On Password Field [[ChromeDriver: chrome on WINDOWS (f2c01511b5f70f3abc085936d5e1e57c)] -> xpath: //input[@id='password']]
+2021-01-07 01:01:646 INFO  LoginPage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (f2c01511b5f70f3abc085936d5e1e57c)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-07 01:01:703 INFO  LoginPage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (f2c01511b5f70f3abc085936d5e1e57c)] -> xpath: //div[@id='flash']]
+2021-01-07 01:01:725 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 01:01:159 INFO  HomePage :39 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 01:01:438 INFO  LoginPage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (a475cd5979d504ff04c4db0ebe032c2c)] -> xpath: //input[@id='username']]
+2021-01-07 01:01:733 INFO  LoginPage :53 - Entering Password 123fghem@On Password Field [[ChromeDriver: chrome on WINDOWS (a475cd5979d504ff04c4db0ebe032c2c)] -> xpath: //input[@id='password']]
+2021-01-07 01:01:463 INFO  LoginPage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (a475cd5979d504ff04c4db0ebe032c2c)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-07 01:01:527 INFO  LoginPage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (a475cd5979d504ff04c4db0ebe032c2c)] -> xpath: //div[@id='flash']]
+2021-01-07 01:01:22 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 01:01:222 INFO  HomePage :39 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 01:01:438 INFO  LoginPage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (04d468aa30cb5717906462c9e78fde13)] -> xpath: //input[@id='username']]
+2021-01-07 01:01:848 INFO  LoginPage :53 - Entering Password sdfvgg1234@On Password Field [[ChromeDriver: chrome on WINDOWS (04d468aa30cb5717906462c9e78fde13)] -> xpath: //input[@id='password']]
+2021-01-07 01:01:537 INFO  LoginPage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (04d468aa30cb5717906462c9e78fde13)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-07 01:01:607 INFO  LoginPage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (04d468aa30cb5717906462c9e78fde13)] -> xpath: //div[@id='flash']]
+2021-01-07 01:01:754 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 01:01:44 INFO  HomePage :39 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 01:01:242 INFO  LoginPage :47 - Entering UsernamejackstasOn username Field[[ChromeDriver: chrome on WINDOWS (78025c4b50e7c9fc7100ad4b539a005a)] -> xpath: //input[@id='username']]
+2021-01-07 01:01:478 INFO  LoginPage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (78025c4b50e7c9fc7100ad4b539a005a)] -> xpath: //input[@id='password']]
+2021-01-07 01:01:102 INFO  LoginPage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (78025c4b50e7c9fc7100ad4b539a005a)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-07 01:01:161 INFO  LoginPage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (78025c4b50e7c9fc7100ad4b539a005a)] -> xpath: //div[@id='flash']]
+2021-01-07 01:01:236 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 01:01:532 INFO  HomePage :39 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 01:01:943 INFO  LoginPage :47 - Entering UsernamemonikablackOn username Field[[ChromeDriver: chrome on WINDOWS (196954a7bca5b6740eefb601218d94a8)] -> xpath: //input[@id='username']]
+2021-01-07 01:01:358 INFO  LoginPage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (196954a7bca5b6740eefb601218d94a8)] -> xpath: //input[@id='password']]
+2021-01-07 01:01:321 INFO  LoginPage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (196954a7bca5b6740eefb601218d94a8)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-07 01:01:427 INFO  LoginPage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (196954a7bca5b6740eefb601218d94a8)] -> xpath: //div[@id='flash']]
+2021-01-07 01:01:664 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 01:01:739 INFO  HomePage :39 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 01:01:927 INFO  LoginPage :47 - Entering UsernameromankurhajecOn username Field[[ChromeDriver: chrome on WINDOWS (7a8a455d59048a9c115205d4a2ee105e)] -> xpath: //input[@id='username']]
+2021-01-07 01:01:129 INFO  LoginPage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (7a8a455d59048a9c115205d4a2ee105e)] -> xpath: //input[@id='password']]
+2021-01-07 01:01:739 INFO  LoginPage :59 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (7a8a455d59048a9c115205d4a2ee105e)] -> xpath: //i[contains(text(),'Login')]]
+2021-01-07 01:01:788 INFO  LoginPage :65 - Getting Login error message[[ChromeDriver: chrome on WINDOWS (7a8a455d59048a9c115205d4a2ee105e)] -> xpath: //div[@id='flash']]
+2021-01-07 01:01:794 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 01:01:910 INFO  HomePage :39 - Clicking on form Authentication FeatureProxy element for: DefaultElementLocator 'By.linkText: Form Authentication'
+2021-01-07 01:01:127 INFO  LoginPage :47 - Entering UsernametomsmithOn username Field[[ChromeDriver: chrome on WINDOWS (97ea1b12abc30e604a416bc0492b0f3f)] -> xpath: //input[@id='username']]
+2021-01-07 01:01:381 INFO  LoginPage :53 - Entering Password SuperSecretPassword!On Password Field [[ChromeDriver: chrome on WINDOWS (97ea1b12abc30e604a416bc0492b0f3f)] -> xpath: //input[@id='password']]
+2021-01-07 01:01:79 INFO  LoginPage :59 - Clicking on Login Button Proxy element for: DefaultElementLocator 'By.xpath: //i[contains(text(),'Login')]'
+2021-01-07 01:01:693 INFO  LoginPage :72 - Clicking on Log out Button Proxy element for: DefaultElementLocator 'By.xpath: //i[contains(text(),'Logout')]'
+2021-01-07 12:01:811 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 12:01:791 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 12:01:03 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (a80529d5801c27c64cda38363487efc5)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:69 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (a80529d5801c27c64cda38363487efc5)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:252 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (a80529d5801c27c64cda38363487efc5)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:383 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (a80529d5801c27c64cda38363487efc5)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:437 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (a80529d5801c27c64cda38363487efc5)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:567 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (a80529d5801c27c64cda38363487efc5)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:721 INFO  KeyPressesPage :46 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (a80529d5801c27c64cda38363487efc5)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:770 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (a80529d5801c27c64cda38363487efc5)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:908 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (a80529d5801c27c64cda38363487efc5)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:49 INFO  KeyPressesPage :46 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (a80529d5801c27c64cda38363487efc5)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:97 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (a80529d5801c27c64cda38363487efc5)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:911 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 12:01:867 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 12:01:75 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (36fcec124594127fa1e70de22c096b36)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:131 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (36fcec124594127fa1e70de22c096b36)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:273 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (36fcec124594127fa1e70de22c096b36)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:400 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (36fcec124594127fa1e70de22c096b36)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:444 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (36fcec124594127fa1e70de22c096b36)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:569 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (36fcec124594127fa1e70de22c096b36)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:691 INFO  KeyPressesPage :46 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (36fcec124594127fa1e70de22c096b36)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:740 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (36fcec124594127fa1e70de22c096b36)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:861 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (36fcec124594127fa1e70de22c096b36)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:959 INFO  KeyPressesPage :46 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (36fcec124594127fa1e70de22c096b36)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:03 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (36fcec124594127fa1e70de22c096b36)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:370 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 12:01:476 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 12:01:735 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (bf933c351fd3c02c964d4a2b7c049638)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:809 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (bf933c351fd3c02c964d4a2b7c049638)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:24 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (bf933c351fd3c02c964d4a2b7c049638)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:185 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (bf933c351fd3c02c964d4a2b7c049638)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:233 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (bf933c351fd3c02c964d4a2b7c049638)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:384 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (bf933c351fd3c02c964d4a2b7c049638)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:527 INFO  KeyPressesPage :46 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (bf933c351fd3c02c964d4a2b7c049638)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:572 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (bf933c351fd3c02c964d4a2b7c049638)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:726 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (bf933c351fd3c02c964d4a2b7c049638)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:894 INFO  KeyPressesPage :46 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (bf933c351fd3c02c964d4a2b7c049638)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:940 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (bf933c351fd3c02c964d4a2b7c049638)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:314 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 12:01:970 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 12:01:162 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (4cbc79c8af8499587baaefbc6fd7396a)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:223 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (4cbc79c8af8499587baaefbc6fd7396a)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:385 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 12:01:360 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 12:01:530 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (3671de9d16a63ecc481a0f190a89f894)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:588 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (3671de9d16a63ecc481a0f190a89f894)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:724 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (3671de9d16a63ecc481a0f190a89f894)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:849 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (3671de9d16a63ecc481a0f190a89f894)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:898 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (3671de9d16a63ecc481a0f190a89f894)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:950 INFO  BrowserSelector :40 - Launching Chrome Browser
+2021-01-07 12:01:945 INFO  KeyPressesPage :40 - Clicking On Key Presses FeatureProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Key Presses')]'
+2021-01-07 12:01:130 INFO  KeyPressesPage :46 - Entering alphabetsAOn key press Field[[ChromeDriver: chrome on WINDOWS (badc9b2097279b2495c80aaeedd533a2)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:190 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (badc9b2097279b2495c80aaeedd533a2)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:359 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (badc9b2097279b2495c80aaeedd533a2)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:486 INFO  KeyPressesPage :46 - Entering alphabetsBOn key press Field[[ChromeDriver: chrome on WINDOWS (badc9b2097279b2495c80aaeedd533a2)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:533 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (badc9b2097279b2495c80aaeedd533a2)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:643 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (badc9b2097279b2495c80aaeedd533a2)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:802 INFO  KeyPressesPage :46 - Entering alphabetsCOn key press Field[[ChromeDriver: chrome on WINDOWS (badc9b2097279b2495c80aaeedd533a2)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:856 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (badc9b2097279b2495c80aaeedd533a2)] -> xpath: //p[@id='result']]
+2021-01-07 12:01:980 INFO  KeyPressesPage :58 - Clear text from field[[ChromeDriver: chrome on WINDOWS (badc9b2097279b2495c80aaeedd533a2)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:106 INFO  KeyPressesPage :46 - Entering alphabetsDOn key press Field[[ChromeDriver: chrome on WINDOWS (badc9b2097279b2495c80aaeedd533a2)] -> xpath: //input[@id='target']]
+2021-01-07 12:01:155 INFO  KeyPressesPage :51 - Getting Displayed text message[[ChromeDriver: chrome on WINDOWS (badc9b2097279b2495c80aaeedd533a2)] -> xpath: //p[@id='result']]
